@@ -1,8 +1,4 @@
 name: Node CI
-  
-on:
-  issues:
-    types: [opened, edited]
 
 on: [push]
 
